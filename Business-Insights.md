@@ -1,7 +1,8 @@
 # Business Insights — AI Job Market Analytics
+---
 
-### This project analyzes global AI job market trends using SQL, Power BI, DAX, and dimensional modeling techniques. The goal was to transform raw job posting data into an interactive Business Intelligence dashboard capable of identifying salary trends, hiring growth, skill demand, geographic opportunities, and experience-level insights.
--- 
+ This project analyzes global AI job market trends using SQL, Power BI, DAX, and dimensional modeling techniques. The goal was to transform raw job posting data into an interactive Business Intelligence dashboard capable of identifying salary trends, hiring growth, skill demand, geographic opportunities, and experience-level insights.
+--- 
 ## Market Overview
 
 - **976 total job postings** tracked across 16 companies and 24 unique skills
