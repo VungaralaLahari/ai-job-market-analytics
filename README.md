@@ -129,3 +129,17 @@ DAX Measures & KPIs
       ↓
 Interactive Dashboard
 ```
+
+## Project Notebook
+
+### View the Jupyter Notebook
+
+If GitHub notebook preview is unavailable, use the rendered notebook below:
+
+**Data Cleaning Notebook:**
+
+https://nbviewer.org/github/VungaralaLahari/ai-job-market-analytics/blob/main/notebook/Data_Cleaning.ipynb
+
+
+
+```
